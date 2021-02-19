@@ -1,0 +1,30 @@
+2021/02/19 10:33:15 [emerg] 7292#12616: unexpected end of file, expecting "}" in C:\workspace\green-and-blue\team-green/conf/nginx.conf:46
+2021/02/19 10:36:06 [emerg] 5160#15940: unexpected end of file, expecting "}" in C:\workspace\green-and-blue\team-green/conf/nginx.conf:45
+2021/02/19 10:36:27 [emerg] 19488#6360: unexpected end of file, expecting "}" in C:\workspace\green-and-blue\team-green/conf/nginx.conf:45
+2021/02/19 10:40:28 [emerg] 15696#10744: unexpected end of file, expecting "}" in C:\workspace\green-and-blue\team-green/conf/nginx.conf:46
+2021/02/19 10:40:38 [emerg] 22352#7236: unexpected end of file, expecting "}" in C:\workspace\green-and-blue\team-green/conf/nginx.conf:46
+2021/02/19 11:05:10 [notice] 1840#13708: signal process started
+2021/02/19 11:07:10 [error] 1324#9060: *1 CreateFile() "C:\workspace\green-and-blue\team-green/./favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:3002/"
+2021/02/19 11:10:28 [error] 15280#18740: *1 CreateFile() "C:\workspace\green-and-blue\team-green/./favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3001", referrer: "http://localhost:3001/"
+2021/02/19 11:11:29 [error] 1324#9060: *4 CreateFile() "C:\workspace\green-and-blue\team-green/./team-green/images/reco_${id}.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /team-green/images/reco_$%7Bid%7D.jpg HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:3002/"
+2021/02/19 11:12:48 [error] 15280#18740: *4 CreateFile() "C:\workspace\green-and-blue\team-green/./blue-buy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /blue-buy HTTP/1.1", host: "127.0.0.1:3001"
+2021/02/19 11:12:49 [error] 15280#18740: *4 CreateFile() "C:\workspace\green-and-blue\team-green/./favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:3001", referrer: "http://127.0.0.1:3001/blue-buy"
+2021/02/19 11:16:01 [notice] 16832#7912: signal process started
+2021/02/19 11:16:42 [notice] 6688#21512: signal process started
+2021/02/19 11:16:42 [error] 6688#21512: CreateFile() "C:\workspace\green-and-blue\team-green/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/02/19 11:16:59 [error] 16568#3048: *6 CreateFile() "C:\workspace\green-and-blue\team-green/./favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:3002", referrer: "http://127.0.0.1:3002/"
+2021/02/19 11:17:50 [notice] 8420#18504: signal process started
+2021/02/19 11:19:17 [error] 16568#3048: *10 CreateFile() "C:\workspace\green-and-blue\team-green/./team-green/images/reco_${id}.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /team-green/images/reco_$%7Bid%7D.jpg HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:3002/"
+2021/02/19 11:19:35 [notice] 8128#17452: signal process started
+2021/02/19 11:19:35 [error] 8128#17452: CreateFile() "C:\workspace\green-and-blue\team-green/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/02/19 11:22:48 [notice] 13480#716: signal process started
+2021/02/19 11:22:48 [error] 13480#716: CreateFile() "C:\workspace\green-and-blue\team-green/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/02/19 12:01:12 [error] 13424#14064: *1 CreateFile() "C:\workspace\green-and-blue\team-green/src/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:3002/"
+2021/02/19 12:02:16 [error] 13424#14064: *4 CreateFile() "C:\workspace\green-and-blue\team-green/src/fragments.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fragments.js HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:4000/"
+2021/02/19 13:08:31 [notice] 11572#4384: signal process started
+2021/02/19 13:11:57 [error] 13424#14064: *7 CreateFile() "C:\workspace\green-and-blue\team-green/src/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:3002/"
+2021/02/19 13:13:31 [notice] 10396#21800: signal process started
+2021/02/19 13:13:31 [error] 10396#21800: CreateFile() "C:\workspace\green-and-blue\team-green/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/02/19 13:13:35 [notice] 4688#18544: signal process started
+2021/02/19 13:13:35 [error] 4688#18544: CreateFile() "C:\workspace\green-and-blue\team-green/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/02/19 13:27:33 [error] 6460#3496: *1 CreateFile() "C:\workspace\green-and-blue\team-green/build/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3002", referrer: "http://localhost:3002/"
